@@ -10,6 +10,7 @@ $site_placeholderpfp = '/content/pfp/temporary_placeholder_pfp.png';
 
 $debug = true;
 $beta = true;
+$production = false;
 
 $sql_dbuser = 'root';
 $sql_dbpass = '';
