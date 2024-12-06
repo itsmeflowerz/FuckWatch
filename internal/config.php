@@ -19,6 +19,7 @@ $sql_dbname = 'fuckwatch';
 ?>
 
 <?php
+session_start();
 
 define('DB_HOST', 'localhost');
 define('DB_NAME', $sql_dbname);
