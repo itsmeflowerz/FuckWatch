@@ -1,8 +1,8 @@
 <?php
 
 $site_url = 'localhost';
-$site_name = 'FuckWatch';
-$site_slogan = 'Wow, this shit sucks!';
+$site_name = 'ClipVerse';
+$site_slogan = 'Im gonna kill myself';
 $site_lightlogo = '/assets/img/temporary_logo_light.png';
 $site_darklogo = '/assets/img/temporary_logo_dark.png';
 $site_placeholderthumbnail = '/content/thumbnails/temporary_placeholder_thumbnail.png';
