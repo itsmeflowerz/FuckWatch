@@ -3,7 +3,9 @@
 $site_url = 'localhost';
 $site_name = 'FuckWatch';
 $site_slogan = 'Wow, this shit sucks!';
-$site_logo = 'I havent made one yet';
+$site_lightlogo = 'assets/img/temporary_logo_light.png';
+$site_darklogo = 'assets/img/temporary_logo_dark.png';
+$site_placeholderthumbnail = 'assets/img/temporary_placeholder_thumbnail.png';
 
 $debug = true;
 $beta = true;
