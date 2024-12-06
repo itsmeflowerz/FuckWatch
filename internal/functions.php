@@ -29,7 +29,7 @@ foreach ($botUserAgents as $bot) {
 }
 
 $timeLimit = 60;  
-$requestLimit = 100;  
+$requestLimit = 50;  
 
 $ip = $_SERVER['REMOTE_ADDR'];  
 
@@ -43,7 +43,7 @@ $_SESSION['requests'] = array_filter($_SESSION['requests'], function ($timestamp
 
 if (count($_SESSION['requests']) >= $requestLimit) {
     header('HTTP/1.1 429 Too Many Requests');
-    echo "You have exceeded the request limit. Please try again later.";
+    echo "too many requests, try again in 60 seconds";
     exit;
 }
 
