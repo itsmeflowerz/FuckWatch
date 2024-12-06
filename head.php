@@ -31,12 +31,12 @@
         <div id="navbar" class="navbar-collapse collapse">
           <form class="navbar-form navbar-right">
             <div class="form-group">
-              <input type="text" placeholder="username" class="form-control">
+              <input type="text" placeholder="Username" class="form-control">
             </div>
             <div class="form-group">
-              <input type="password" placeholder="password" class="form-control">
+              <input type="password" placeholder="Password" class="form-control">
             </div>
-            <button type="submit" class="btn btn-success">sign in</button>
+            <button type="submit" class="btn btn-success">Sign in</button>
           </form>
         </div>
       </div>
