@@ -44,4 +44,6 @@ try {
     }
 }
 
+require 'functions.php'; 
+
 ?>
