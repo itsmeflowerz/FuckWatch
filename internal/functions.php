@@ -13,7 +13,7 @@ if ($production) {
 $currentDomain = $_SERVER['HTTP_HOST'];
 
 if (!in_array($currentDomain, $allowedClipVerseDomains)) {
-    die("Access denied. This domain is not allowed.");
+    die("skidder no skidding");
 }
 
 ?>
