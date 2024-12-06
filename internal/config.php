@@ -1,6 +1,6 @@
 <?php
 
-$site_url = 'localhost';
+$site_url = 'clipverse.pw';
 $site_name = 'ClipVerse';
 $site_slogan = 'Im gonna kill myself';
 $site_lightlogo = '/assets/img/temporary_logo_light.png';
